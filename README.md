@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Rohan10027/Food-Mine-Food-Delivery-App/assets/90006085/285d8bd0-da6c-4fb2-8724-cef3d5cdf241)
+
 
 # Instructions:
 
